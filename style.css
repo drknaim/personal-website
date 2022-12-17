@@ -1,6 +1,7 @@
 body{
     margin: 0;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: 'Roboto', sans-serif;
+
 }
 section{
     height: 700px;
@@ -12,7 +13,7 @@ h1{
 h2{
     font-size: 35px;
     font-weight: 200;
-    color: rgba(0, 0, 0, 0.733);
+    color: #000000dc;
 }
 p{
     font-size: 15px;
@@ -72,7 +73,7 @@ p{
 }
 #my-work{
     padding-top: 100px;
-    color: rgba(0, 0, 0, 0.801);
+    color: #000000dc;
     text-align: center;
 }
 .My-latest-work{
@@ -92,4 +93,20 @@ p{
 }
 #Three-in-one{
     margin: 0px 80px;
+}
+.Client-area{
+    text-align: center;
+}
+#Bruce{
+    font-weight: bold;
+    font-size: 18px;
+    color: #000000dc;
+}
+#Lorem-lpsum{
+    font-size: 18px;
+    padding-left: 36%;
+    padding-right: 36%;
+    text-align: center;
+    width: 27%;
+    color: #000000dc;
 }
