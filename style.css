@@ -14,9 +14,6 @@ h2{
     font-weight: 200;
     color: rgba(0, 0, 0, 0.733);
 }
-h3{
-    font-size: 25px;
-}
 p{
     font-size: 15px;
     color: dimgray;
@@ -36,7 +33,7 @@ p{
 }
 .Half-width img{
     width: 100%;
-    padding-top: 50px;
+    padding-top: 30px;
 }
 .Top-banner{
     padding-left: 150px;
@@ -55,4 +52,21 @@ p{
     border-radius: 5px;
     color: #ffffff;
     font-weight: 800;
+    font-size: 15px;
+    font-weight: 300;
+}
+.Mid-banner{
+    padding-left: 150px;
+    padding-bottom: 70px;
+    background-image: url("images/biography-bg.png");
+    background-repeat: no-repeat;
+    background-size: 1900px;
+}
+#Mid-img{
+    width: 35%;
+}
+
+#Mid-text{
+    margin-top: 150px;
+    padding-left: 120px;
 }
