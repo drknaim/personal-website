@@ -27,7 +27,7 @@ p{
     width: 40%;
     float: left;
     
-    padding-top: 100px;
+    padding-top: 50px;
     padding-left: 2%;
 
 }
@@ -36,10 +36,10 @@ p{
     padding-top: 30px;
 }
 .Top-banner{
-    padding-left: 150px;
+    padding-left: 160px;
     background-image: url("images/header-bg.png");
     background-repeat: no-repeat;
-    background-size: 1350px;
+    background-size: 1250px;
 }
 #Top-text{
     margin-top: 120px;
@@ -57,16 +57,39 @@ p{
 }
 .Mid-banner{
     padding-left: 150px;
-    padding-bottom: 70px;
+    padding-bottom: 100px;
     background-image: url("images/biography-bg.png");
     background-repeat: no-repeat;
-    background-size: 1900px;
+    background-size: 1700px;
 }
 #Mid-img{
-    width: 35%;
+    width: 38%;
 }
 
 #Mid-text{
     margin-top: 150px;
     padding-left: 120px;
+}
+#my-work{
+    padding-top: 100px;
+    color: rgba(0, 0, 0, 0.801);
+    text-align: center;
+}
+.My-latest-work{
+    background-image: url("images/latest-work-bg.png");
+    background-repeat: no-repeat;
+    background-size: 1350px;
+}
+
+.Latest-work{
+    float: left;
+    width: 30%;
+    padding: 15px;
+    padding-top: 80px;
+}
+.Latest-work img{
+    width: 100%;
+}
+#Three-in-one{
+    margin: 0px 80px;
 }
