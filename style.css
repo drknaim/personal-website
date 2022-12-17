@@ -1,0 +1,58 @@
+body{
+    margin: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+section{
+    height: 700px;
+}
+h1{
+    font-size: 40px;
+    font-weight: 900;
+}
+h2{
+    font-size: 35px;
+    font-weight: 200;
+    color: rgba(0, 0, 0, 0.733);
+}
+h3{
+    font-size: 25px;
+}
+p{
+    font-size: 15px;
+    color: dimgray;
+}
+
+#Name-highlight{
+    color: #ff0077c5;
+    font-size: 50px;
+}
+.Half-width{
+    width: 40%;
+    float: left;
+    
+    padding-top: 100px;
+    padding-left: 2%;
+
+}
+.Half-width img{
+    width: 100%;
+    padding-top: 50px;
+}
+.Top-banner{
+    padding-left: 150px;
+    background-image: url("images/header-bg.png");
+    background-repeat: no-repeat;
+    background-size: 1350px;
+}
+#Top-text{
+    margin-top: 120px;
+}
+
+.Link-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, #ff258bbe, #ff0077c5);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: #ffffff;
+    font-weight: 800;
+}
