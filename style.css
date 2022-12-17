@@ -1,6 +1,6 @@
 body{
     margin: 0;
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Poppins', sans-serif;
 
 }
 section{
@@ -95,6 +95,8 @@ p{
     margin: 0px 80px;
 }
 .Client-area{
+    background-image: url("images/footer-bg.png");
+    background-size: 1400px;
     text-align: center;
 }
 #Bruce{
@@ -104,9 +106,28 @@ p{
 }
 #Lorem-lpsum{
     font-size: 18px;
-    padding-left: 36%;
-    padding-right: 36%;
+    padding-left: 34%;
+    padding-right: 34%;
     text-align: center;
-    width: 27%;
+    width: 31%;
     color: #000000dc;
+}
+.Connect{
+    background-image: linear-gradient(180deg, #ff256eda, #ff0055d5);
+    background-size:auto;
+    margin-left: 28%;
+    margin-right: 28%;
+    border-radius: 10px;
+    height: 100px;
+    padding-top: 20px;
+    padding-bottom: 50px;
+}
+.Connect-link{
+    color: #ffffff;
+}
+.bolod{
+    font-size: 25px;
+}
+footer{
+    text-align: center;
 }
